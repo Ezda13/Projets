@@ -1,6 +1,8 @@
 # Source : Haig, Geoffrey. « Northern Kurdish (Kurmanjî) », section 2.1 (phonologie).
 # https://doi.org/10.1515/9783110421682-004
 
+import tkinter as tk
+
 # Table de correspondance : lettre kurmancî avec API
 
 TABLE = {
@@ -25,6 +27,7 @@ def transcription_mot(mot):
     resultat = resultat.replace("xw", "xʷ")
     return resultat
 
+
 def transcription_phrase(phrase):
     mots = phrase.split()
     transcrits = [] 
@@ -33,8 +36,28 @@ def transcription_phrase(phrase):
     return "[" + " ".join(transcrits) +"]"
 
 
-while True:
-    phrase = input("Phrase en kurmancî (Entrée pour quitter) : ")
-    if phrase == "":
-        break
-    print(transcription_phrase(phrase))
+#interface
+
+def transcrire(event=None):
+    phrase = entree.get()
+    resultat.config(text=transcription_phrase(phrase))
+
+
+
+fenetre = tk.Tk()
+fenetre.title("Transcription phonétique du kurmancî")
+
+consigne = tk.Label(fenetre, text="Écris une phrase en kurmancî :", font=("Segoe UI", 12))
+consigne.pack(padx=20, pady=(20, 5))
+
+entree = tk.Entry(fenetre, width=40, font=("Segoe UI", 14))
+entree.pack(padx=20)
+entree.bind("<Return>", transcrire)
+
+bouton = tk.Button(fenetre, text="Transcrire", command=transcrire)
+bouton.pack(pady=10)
+
+resultat = tk.Label(fenetre, text="", font=("Segoe UI", 16))
+resultat.pack(padx=20, pady=(0, 20))
+
+fenetre.mainloop()
