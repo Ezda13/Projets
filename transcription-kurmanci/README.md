@@ -1,0 +1,1 @@
+# Transcription phonétique du kurmancî
