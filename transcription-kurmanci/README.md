@@ -3,10 +3,9 @@
 Un outil en Python qui convertit une phrase écrit en kurmancî (kurde du Nord, alphabet latin) en transcription phonétique, selon l'alphabet phonétique international (API).
 
 ```
-Phrase en kurmancî (Entrée pour quitter) : Ez kurd im
-[æz kʊɾd ɨm]
-Phrase en kurmancî (Entrée pour quitter) : xwesû
-[xʷæsuː]
+| Ez kurd im | [æz kʊɾd ɨm] |
+| Rê dûr e | [reː duːɾ æ] |
+| xwesû | [xʷæsuː] |
 ```
 
 ## Utilisation
@@ -17,7 +16,7 @@ Il faut Python 3. Depuis le dossier du projet :
 python transcription.py
 ```
 
-Tape un mot ou une phrase, puis Entrée. Pour quitter, appuie sur Entrée sans rien écrire.
+Une fenêtre s'ouvre. Tape un mot ou une phrase en kurmancî, puis clique sur **Transcrire** ou appuie sur Entrée.
 
 ## Fonctionnement
 
@@ -42,7 +41,6 @@ Tape un mot ou une phrase, puis Entrée. Pour quitter, appuie sur Entrée sans r
 ## Pistes d'amélioration
 
 - Un lexique des mots à consonnes aspirées
-- Une interface web
 
 ## Source
 
