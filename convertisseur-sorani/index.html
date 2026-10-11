@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Convertisseur soranî</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --nuit: #1A1A1A;
+            --or: #E8A93B;
+            --creme: #F5F1E8;
+            --bordeaux: #6B1420;
+        }
+        body {
+            margin: 0;
+            padding: 2rem 1rem;
+            background-color: var(--nuit);
+            color: var(--creme);
+            font-family: Georgia, serif;
+        }
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: var(--or);
+            font-weight: normal;
+        }
+        textarea {
+            width: 100%;
+            box-sizing: border-box;
+            min-height: 6rem;
+            padding: 1rem;
+            font-family: 'Noto Naskh Arabic', serif;
+            font-size: 1.5rem;
+            background-color: #262626;
+            color: var(--creme);
+            border: 1px solid var(--bordeaux);
+            border-radius: 8px;
+        }
+        #resultat {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            margin-top: 2rem;
+        }
+        .paire {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0.6rem 0.9rem;
+            border: 1px solid var(--bordeaux);
+            border-radius: 8px;
+        }
+        .sorani {
+            font-family: 'Noto Naskh Arabic', serif;
+            font-size: 1.5rem;
+        }
+        .latin {
+            color: var(--or);
+            font-size: 1.2rem;
+        }
+        footer {
+            margin-top: 3rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--bordeaux);
+            font-size: 0.9rem;
+            color: rgba(245, 241, 232, 0.72);
+        }
+        footer a {
+            color: var(--or);
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Convertisseur soranî → alphabet latin</h1>
+        <textarea id="entree" dir="rtl" placeholder="ئێرە بنووسە..."></textarea>
+        <div id="resultat"></div>
+        <footer>
+            <p lang="ku">
+                Ev malper hate afirandin da ku wekheviyên di navbera du zaravayên herî mezin ên zimanê me,
+                kurmancî û soranî, nîşan bide. Her çend bi du alfabeyên cuda tên nivîsandin jî, ev her du zarava
+                ji heman kokê ne. Armanca vê amûrê ew e ku eşkere bike ka zimanê me çiqas yekgirtî ye,
+                berevajî tiştên ku ji derve tên gotin. Bila ev xebat bibe destpêkek ji bo pêşxistin û parastina zimanê me.
+            </p>
+            Outil créé par <a href="https://github.com/Ezda13" target="_blank">Ezda13</a><br>
+            Code source : <a href="https://github.com/Ezda13/Projets/tree/main/convertisseur-sorani" target="_blank">convertisseur-sorani</a>
+        </footer>
+    </main>
+
+    <script>
+        const TABLE = {
+            "ا": "a", "ب": "b", "پ": "p", "ت": "t", "ج": "c",
+            "چ": "ç", "ح": "h", "خ": "x", "د": "d", "ر": "r",
+            "ڕ": "ř", "ز": "z", "ژ": "j", "س": "s", "ش": "ş",
+            "ع": "'", "غ": "x", "ف": "f", "ڤ": "v", "ق": "q",
+            "ک": "k", "گ": "g", "ل": "l", "ڵ": "ł", "م": "m",
+            "ن": "n", "ه": "h", "ە": "e", "ێ": "ê", "ۆ": "o",
+            "ئ": "", "ھ": "h",
+            "،": ",", "؟": "?",
+        };
+
+        const VOYELLES = "اەێۆ";
+
+        function convertirMot(mot) {
+            if (mot === "و") {
+                return "û";
+            }
+            mot = mot.replaceAll("وو", "û");
+            const lettres = Array.from(mot);
+            let resultat = "";
+            for (let i = 0; i < lettres.length; i++) {
+                const lettre = lettres[i];
+                const avant = lettres[i - 1];
+                const apres = lettres[i + 1];
+                if (lettre === "و" || lettre === "ی") {
+                    const debut = avant === undefined || !/\p{L}/u.test(avant);
+                    const consonne = debut
+                        || VOYELLES.includes(avant)
+                        || VOYELLES.includes(apres)
+                        || resultat.endsWith("î")
+                        || resultat.endsWith("û");
+                    if (lettre === "و") {
+                        if (consonne) {
+                            resultat += "w";
+                        } else {
+                            resultat += "u";
+                        }
+                    } else {
+                        if (consonne) {
+                            resultat += "y";
+                        } else {
+                            resultat += "î";
+                        }
+                    }
+                } else if (lettre === "û" && VOYELLES.includes(apres)) {
+                    resultat += "ûw";
+                } else if (lettre in TABLE) {
+                    resultat += TABLE[lettre];
+                } else {
+                    resultat += lettre;
+                }
+            }
+            return resultat;
+        }
+
+
+        function afficher() {
+            const texte = document.getElementById("entree").value;
+            const zone = document.getElementById("resultat");
+            zone.replaceChildren();
+            for (const mot of texte.split(/\s+/)) {
+                if (mot === "") continue;
+                const paire = document.createElement("div");
+                paire.className = "paire";
+                const sorani = document.createElement("span");
+                sorani.className = "sorani";
+                sorani.textContent = mot;
+                const latin = document.createElement("span");
+                latin.className = "latin";
+                latin.textContent = convertirMot(mot);
+                paire.append(sorani, latin);
+                zone.appendChild(paire);
+            }
+        }
+
+        document.getElementById("entree").addEventListener("input", afficher);
+    </script>
+</body>
+</html>
