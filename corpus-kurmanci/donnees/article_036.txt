@@ -1,0 +1,23 @@
+HTML
+
+HyperText Markup Language (HTML, Zimanê Îşaretkirina Hîpermetnê) zimanekî îşaretkirinê yê standard e ji bo dokumentên ku di gerokeke webê de werin nîşandan hatine dîzaynkirin. Ew bi gelemperî bi teknolojiyên wekî Cascading Style Sheets (CSS) û zimanên nivîsandinê yên wekî JavaScript ve tê destekkirin.
+Gerokên webê dokumentên HTMLê ji servereke webê an ji depoya lokal werdigirin û wan dokumentan dizivirînin rûpelên webê yên multîmedya. HTML strukturên rûpelek webê ji aliyê semantîk ve tarîf dike û ji bo xuyaniya eslî nîşanan dihewîne.
+HTML ji bo qalibkirina agahiyan e — nîşandana nivîsên wek sernav, paragraf, lîstkirin û bi piranî wekî wan, nimandina wî, û heta dereceyeke şîrovekirina ji bo dokument û wateya wî tê bikaranîn.
+Qalibê gramera HTMLê HTML DTD ye û ji bo bikaranîna rêzên SGML hatiye avakirin.
+
+
+== Binêre ==
+Ji bo fêrbuna zimanê HTMLê
+Breadcrumb navigation
+Comparison of HTML parsers
+Rûpela webê ya dînamîk
+EMML (Motorola)
+Referansên karakterên HTML
+Lîsteya zimanên îşaretkirina dokumentê
+Lîsteya referansên yekeyên karakterên XML û HTMLê
+Mîkrodane (HTML)
+Mîkroformat
+Polyglot markup
+Semantic HTML
+W3C (X)HTML Validator
+Rengên webê

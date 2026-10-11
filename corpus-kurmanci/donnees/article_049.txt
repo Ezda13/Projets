@@ -1,0 +1,569 @@
+Îsbata matematîkî
+
+Îsbata matematîkî argumanekî deduktîf e ji bo îfadeyeke matematîkî ku temsîl dide ku texmînên diyarkirî bi awayekî mantiqî encamê garantî dikin. Arguman dikare îfadeyên din ku berê hatin damezrandin wekî teoreman, bikar bîne; lê her îsbat di prensîbê de dikare bikaranîna tenê hin texmînên bingehîn an orîjînal ên ku wekî aksiyom têne zanin, ligel qaîdeyên texmînkirinê yên pejirandî were çêkirin. Îsbat meselayên aqilmendiya deduktîf a berfireh in ku teqeziya mentiqî saz dikin ku ji argumanên empîrîk an aqilmendiya enduktîf a ne-tevahî ku "hêviya maqûl" saz dikin werin cudakirin. Pêşkêşkirina gelek rewşan ku tê de îfade derbas dibe ji bo îsbatek têrê nake ku divê temsîl bide ku îsbat di hemî rewşên gengaz de rast e. Pêşniyarek ku nehatiye îsbat kirin lê tê bawer kirin ku rast e, wekî texmînek an hîpotezek tê zanin ger pir caran wekî texmînek ji bo esera matematîkî ya din were bikaranîn.
+Îsbat mentiqê ku bi sembolên matematîkî tê îfadekirin, ligel zimanê xwezayî ku bi gelemperî hin nezelaliyan qebûl dike, bikar tînin. Di piriya edebiyata matematîkê de, îsbatên neformal ya hişk têne nivîsîn. Îsbatên formal ku bi tevahî bi zimanê sembolîk bêyî tevlêbûna zimanê xwezayî hatine nivîsîn, di teoriya îsbatê de têne hesibandin. Cudahiya di navbera îsbatên formal û neformal de bûye sebeba gelek lêkolînan li ser pratîka matematîkî ya heyî û tarîxî, nîv-empîrîzma di matematîkê de, û ya ku jê re matematîka folklorê tê gotin, kevneşopiyên devkî di civaka matematîkî ya sereke an di kulturên din de. Felsefeya matematîkê bi rola ziman û mentiqê di îsbatan de, û matematîkê wekî zimanek ve mijûl dibe.
+
+
+== Tarîx ==
+Berî îsbatên matematîkî yên hişk, argumanên li ser bingeha îhtîmalê ku amûrên hûrîstîk (wekî resim û meselayên hevseng) bikar dianîn, derketibûn holê. Bi îhtîmaleke mezin, ramana îsbatkirina encamekê cara ewil di warê geometriyê de derket holê; geometrî jî ji pirsgirêkên pratîkî yên pîvandina zeviyan peyda bû. Pêşveçûna îsbatên matematîkî bi giranî esera matematîka yewnaniya kevnare e. Talês (624–546 b.z.) û Hîpokratê Xiyosê (nêzî 470–410 b.z.) hinek ji yekê îsbatên naskirî yên teoremên geometriyê pêşkêş kirin. Eudoksos (408–355 b.z.) û Teaetetûs (417–369 b.z.) teorema formulze kirin, lê ew îsbat nekirin. Arîstotelês (384–322 b.z.) digot ku divê terîfe, wê konsepta ku tê terîfekirin, bi rêya konseptên din ên ku berê têne zanin, rave bikin.
+Îsbatên matematîkî ji hêla Iqlîdes (300 b.z.) ve şoreşek pêk anîn ku wî metoda aksîomatîk danasîn ku îro jî tê bikaranîn. Ew bi şert û aksiyomên nepen dest pê dike, pêşniyarên li ser şertên nepenî yên ku wekî rast têne hesibandin (ji yewnanî axios 'tiştek hêja'). Li ser wê bingehê, metod teoreman bi karanîna mentiqa deduktîf îsbat dike. Elementên Iqlîdes heta nîvê sedeya 20ê ji hêla her kesê ku li Rojava wekî edebî dihat hesibandin ve dihat xwendin. Ji bilî teoremên geometrîyê, wekî teorema Pîtagoras, Elementên Iqlîdes li ser teoriya hejmaran jî vedihewîne, di nav de îsbatek ku koka çargoşe ya duyan neaqilane ye û îsbatek ku hejmarên hîmî bêdawî hene.
+Pêşketinên din di matematîka îslamî ya serdema navîn de jî çêbûn. Di sedeya 10ê de, matematîknasê iraqî El-Haşimî bi hejmaran re ku jê re "xet" tê gotin lê ne hewce ye ku wekî pîvandina tiştên geometrîkî werin hesibandin, dişuxilî da ku pêşniyarên cebirî yên di derbarê pirbûn, dabeşkirin û hwd. de, di nav de hebûna hejmarên îrasyonel, îsbat bike. Îsbateke enduksîyonî ji bo pêşveçûnên arîtmetîkî di El-Fekhrî (1000) de ji hêla Ebûbekir Kerecî ve hate temsîl kirin, ku wî ew bikaranî da ku teorema duqutbî û  taybetmendiyên sêgoşeya Pascal îsbat bike.
+Teoriya îsbatê ya modern îsbatan wekî strukturên daneyên bi awayekî enduktîf hatine temsîl kirin dibîne, û hewcedarî bi texmîna ku aksiyom bi tu awayî "rast" in nake. Ew dihêle ku teoriyên matematîkî yên paralel wekî modelên resmî yên konsepteke întuîtîv a dayîn, li ser bingeha komên alternatîf ên aksiyoman, mesela teoriya komê ya aksiyomatîk û geometriya ne-Iqlîdesî, werin bikaranîn.
+
+
+== Xweza û armanc ==
+Di pratîkê de îsbat bi zimanê xwezayî tê pêşkêşkirin û argumaneke hûrgilî û biîstîqrar e ku armanca wê razîkirina guhdaran e li ser rastiya îdiyayeke. Pîvana hûrgiliyê ne mutleq e û di dirêjahiya tarîxê de guherî ye. Ligorî koma guhdarên armanckirî, dibe ku îsbat bi awayên cuda were pêşkêşkirin. Ji bo ku îsbat were qebûlkirin, divê ew li gorî pîvanên hevpar ên hûrgiliyê be; argumanek ku wekî nezelal an kêm tê dîtin, dibe ku were redkirin.
+Konsepta îsbatê di warê mantiqa matematîkî de resmî ye. Îsbateke formal bi zimanekî formal tê nivîsîn, ne bi zimanê xwezayî. Îsbateke formal rêzek ji formulan e di zimanekî formal de ku bi texmînekê destpê dike, û bi her formuleke paşîn encameke mantiqî ya yên berê re. Ew terîf konsepta îsbatê ji bo lêkolînê guncaw dike. Bi rastî, warê teoriya îsbatê îsbatên formal û taybetmendiyên wan lêkolîn dike, ya herî populer û ecêb ew e ku yawaş hemî sîstemên aksiyomatîk dikarin hin îfadeyên bêçareser çêbikin ku di nav sîstemê de nayên îsbatkirin.
+Terîfa îsbatek formal armanc dike ku konsepta îsbatan wekî ku di pratîka matematîkê de hatiye nivîsîn bigire. Rastbûna terîfê digihîje wê baweriyê ku îsbatek weşandî, di prensîbê de, dikare were veguheztin îsbatek formal. Lêbelê, li derveyî qada alîkarên îsbatên otomatîk, ew kêm kêm di pratîkê de tê kirin. Pirsek klasîk di felsefeyê de dipirse ka îsbatên matematîkî analîtîk in an sentetîk in. Immanuel Kant ku cudahiya analîtîk-sentetîk danasîn, bawer dikir ku îsbatên matematîkî sentetîk in, lê Quine di 1951ê de arguman kir ku cudahiyek wisa ne mimkin e.
+Dibe ku meyro ji ber bedewiya wan a matematîkî, heyraniya xwe ji bo îsbatan temsîl bide. Matematîknas Paul Erdős bi wê yekê dihat zanin ku ew îsbatên bi taybetî nazik û bedew, wekî beşek ji "Kitêb" (The Book) bi nav dikir; ew kitêbeke xeyalî bû ku tê de metodên herî bedew ên îsbatkirina her teoremekê cih digirtin. Kitêba bi navê Proofs from THE BOOK (Îsbatên ji Kitêbê) ku di sala 2003ê de hatiye weşandin, ji bo pêşkêşkirina 32 îsbatên ku edîtorên wê bi taybetî ecibandine, hatiye hazirkirin.
+
+
+== Metodên îsbatê ==
+
+
+=== Îsbata rasterast ===
+Di îsbata rasterast de, encam bi rêya hevgirtina mentiqî ya aksiyom, terîf û teoremên berê tê bidestxistin. Mesela îsbata rasterast dikare were bikaranîn ji bo îsbatkirina wê yekê ku encama komkirina du tamhejmar ên cot, her tim cot e:Du hejmarên tam ên cot, x û y, bifikirin. Ji ber ku ew cot in, dikarin bi awayê x = 2a û y = 2b werin nivîsîn (ku tê de a û b hin hejmarên tam in). Wê çaxê, encama komkirinê dibe x + y = 2a + 2b = 2(a + b). Loma, hejmara x + y xwediyê çarpêkerekî wekî 2 ye û ligorî terîfeyê, ew cot e. Bi wî awayî, encama komkirina her du tamhejmar ên cot jî cot e.Ew îsbat terîfeya tamhejmar ên cot, taybetmendiyên girtîbûna tamhejmarên di bin kiryarên komkirin û lêkdanê de, û taybetmendiya belavkirinê bikar tîne.
+
+
+=== Îsbat bi metoda enduksiyona matematîkî ===
+Tevî navê ve, enduksiyona matematîkî metodek deduksiyonê ye, ne celebek aqilê enduksiyonê ye. Di îsbatkirina bi enduksiyona matematîkî de, "dozek bingehîn" a yekane tê îsbatkirin, û "qaîdeya enduksiyonê" tê îsbatkirin ku temsîl dike ku her dozek kêfî doza din temsîl dide. Ji ber ku di prensîbê de qaîdeya enduksiyonê dikare dubare were sepandin (ji doza bingehîn a îsbatkirî destpê dike), ji wê yekê tê ku hemî (bi gelemperî bêdawî gelek) doz îsbatkirî ne. Ew ji neçarî îsbatkirina her dozek bi ferdî dûr dikeve. Guhertoyek enduksiyona matematîkî îsbatkirina bi daketina bêdawî ye ku dikare were bikaranîn, mesela, ji bo îsbatkirina neaqilanebûna koka çargoşe ya duyan.
+Yek ji bikaranînên hevpar ên îsbatkirina bi metoda enduksiyona matematîkî ew e ku were îsbatkirin ku taybetmendiyeke ji bo hejmarekê derbasdar e, ji bo hemû hejmarên xwezayî jî derbasdar e: Bila N = {1, 2, 3, 4, ... koma hejmarên xwezayî be, û bila P(n) îfadeyeke matematîkî be ku hejmara xwezayî ya n (ku girêdayî N e) dihewîne, bi awayekî ku
+
+(i) P(1) rast e, P(n) bo n = 1 rast e.
+(ii) P(n+1) rast e wexta ku P(n) rast e, P(n) temsîl dike ku P(n+1) rast e.
+Dûrve P(n) bo hemî hejmarên xwezayî n rast e.
+Mesela em dikarin enduksiyoneke îsbat bikin ka hemî tamhejmarên erênî bi şêweyê 2n − 1, hejmarên tek in. Bila P(n) îfadeya "2n − 1 hejmareke tek e" temsîl bide:
+
+(i) Ji bo n = 1, 2n − 1 = 2(1) − 1 = 1, û 1 tek e, wexta ku ji 2 te dabeşkirin, mayîna wê 1 e. Lê P(1) rast e.
+(ii) Ji bo n, if 2n − 1 tek e (P(n)), dûrve mecbûr e ku ew jî be tek  (2n − 1) + 2, ji bo ku zêdekirina 2 hejmareke tek, di wê hejmarê temsîl dike. Lê (2n − 1) + 2 = 2n + 1 = 2(n+1) − 1, so 2(n+1) − 1 tek e (P(n+1)). Yanî P(n) dibe P(n+1).
+Wê zaman 2n − 1 tek e, bo hemî hejmarên erênî n.
+
+
+=== Îsbata bi kontrapozîsiyon ===
+Îsbatkirina bi rêya berevajîkirinê (contraposition), îfadeya "eger p be, wê çaxê q ye" derdixe holê, bi riya sazkirina îfadeyeke berevajî ya ku ji hêla mentiqî ve hevmane ye: "eger ne q be, wê demê ne p ye".
+
+Mesela dikare metoda berevajîkirinê (contraposition) were bikaranîn da ku were temsîl kirin: heke ji bo hejmareke tam a wekî x, x² cot be, wê demê x jî cot e:Ku em farz bikin ku x ne cot e. Wê çaxê 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ takejmar e. Esera du takejmaran, takejmar e, loma 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        x
+        ⋅
+        x
+      
+    
+    {\displaystyle x^{2}=x\cdot x}
+  
+ jî takejmar e. Bi wî awayî, 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+  
+ ne cot e. Ji ber wê yekê, eger 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+  
+ cot be, divê ew farzîye şaş be; loma divê 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ cot be. 
+
+
+=== Îsbata bi dijberiyê ===
+Di îsbatkirina bi rêya dijberiyê de ku bi hevoka latînî ya reductio ad absurdum (ango kêmkirina bo rewşeke bêmane an nemaqûl) jî tê zanin, tê temsîl kirin ku eger îdiyayek wekî rast were qebûlkirin, wê çaxê nakokiyeke mentiqî derdikeve holê; loma divê ew îdiya şaş be. Meselake navdar, îsbatkirina wê yekê ye ku 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+ hejmareke îrasyonel e:Bifikirin ku 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+ hejmareke rasyonel be. Wê çaxê dikare di forma xwe ya herî sade de wekî 
+  
+    
+      
+        
+          
+            2
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}={a \over b}}
+  
+ were nivîsîn ku tê de a û b tamhejmar ên ne-sifir in û ti faktoreke wan a hevpar nîne. Bi wî awayî, 
+  
+    
+      
+        b
+        
+          
+            2
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle b{\sqrt {2}}=a}
+  
+. Heke em her du aliyan bidin dûcaran (bi çargoşeya wan re zêde bikin), em digihîjin encama 2b² = a². Ji ber ku îfadeya li milê çepê piralîkeke tam a 2 ye, li gorî terîfe, îfadeya li milê rastê jî dikare li ser 2 were dabeşkirin. Yanî, a² cot e; ew jî tê wê maneyê ku divê a jî cot be, wekî ku di pêşniyara jorîn de hatiye dîtin. Loma em dikarin binivîsin a = 2c ku tê de c jî tamhejmar e. Cihgirtina wê di hevkêşeya orîjînal de encama 2b² = (2c)² = 4c² dide. Dabeşkirina her du aliyan li ser 2, encama b² = 2c² dide. Lê paşê, bi heman mentiqê berê, 2 b² dabeş dike, loma divê b jî cot be. Lêbelê, heke hem a û hem jî b cot bin, wê çaxê faktoreke wan a hevpar a bi navê 2 heye. Ew yek li dijî îdiaya me ya berê ye ku digot a û b ti faktoreke hevpar nînin; loma divê em bigihîjin wê encamê ku 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+ hejmareke îrasyonel e.Bi gotineke din: eger mirov bikariba 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+ wekî parekê (kesîrekê) binivîse, ew par dê tu carî nedikarîbû bi şêweya xwe ya herî sade were nivîsîn; ji ber ku her tim dê gengaz bûya ku mirov hejmara 2 hem ji jimêr û hem jî ji binêr derxista (wekî faktorekî hevpar).
+
+
+=== Îsbata bi avakirinê ===
+Îsbatkirina bi avakirinê (an jî îsbatkirina bi mesela), prosesa avakirina meselake berbiçav a xwediyê taybetmendiyekê ye, bi mebesta temsîl kirina hebûna tiştekî ku xwediyê wê taybetmendiyê ye. Bo nimûne, Joseph Liouville bi avakirina meselake zelal, hebûna hejmarên derbasbûyî (transcendental numbers) îsbat kir. Herwiha ew metod dikare ji bo avakirina dij-meselake jî were bikaranîn da ku îdiaya ku "hemû element xwediyê taybetmendiyekê ne" were redkirin.
+
+
+=== Îsbata bi lêkolîna rewşan ===
+Di îsbatkirina lêkolînê rewşan (proof by exhaustion) de, encam bi dabeşkirina meseleyê bo hejmareke sinorkirî ya rewşan û îsbatkirina her yek ji wan bi awayekî serbixwe tê bidestxistin. Carinan dibe ku hejmara wan rewşan pir zêde be. Mesela îsbata ewil a "teorema çar rengan" bi rêya lêkolîna rewşan hatibû kirin û 1936 rewş tê de hebûn. Ew îsbat bû cihê nîqaşê, ji ber ku piriya rewşan ne bi dest, lê bi rêya programeke komputerê hatibûn kontrolkirin.
+
+
+=== Encamgiriya zincîra girtî ===
+Encamgiriya zincîra girtî temsîl dide ku komek îfade bi awayekî cot bi hev re hevmane ne.
+Ji bo îsbatkirina wê yekê ku îfadeyên 
+  
+    
+      
+        
+          φ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          φ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi _{1},\ldots ,\varphi _{n}}
+  
+ bi awayekî cot bi hev re hevmane ne, îsbat ji bo van encamgirtinan tên pêşkêşkirin: 
+  
+    
+      
+        
+          φ
+          
+            1
+          
+        
+        ⇒
+        
+          φ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi _{1}\Rightarrow \varphi _{2}}
+  
+, 
+  
+    
+      
+        
+          φ
+          
+            2
+          
+        
+        ⇒
+        
+          φ
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \varphi _{2}\Rightarrow \varphi _{3}}
+  
+, 
+  
+    
+      
+        …
+      
+    
+    {\displaystyle \dots }
+  
+, 
+  
+    
+      
+        
+          φ
+          
+            n
+            −
+            1
+          
+        
+        ⇒
+        
+          φ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi _{n-1}\Rightarrow \varphi _{n}}
+  
+ û 
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        ⇒
+        
+          φ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \varphi _{n}\Rightarrow \varphi _{1}}
+  
+. 
+Paşê hevmanebûna cot a wan îfadeyan ji taybetmendiya veguhêzbûnê (transitivity) ya şertê mentiqî (material conditional) derdikeve holê.
+
+
+=== Îsbata îhtîmalî ===
+Îsbateke îhtimalî ew îsbat e ku tê de meselake bi teqezî bikaranîna metodên teoriya îhtîmalê tê temsîl kirin ku heye. Îsbateke îhtimalî, mîna îsbata avakirinê, yek ji gelek awayan e ji bo îsbatkirina teoremên hebûnê.
+Di metoda îhtimalî de, însan li tiştekî digere ku xwedî taybetmendiyek diyarkirî ye, bi komek mezin ji namzedan destpê dike. Însan ji bo her namzedekî îhtimaleke diyarkirî temsîl dike ku were hilbijartin, û dûv re îsbat dike ku îhtimaleke ne-sifir heye ku namzedekî bijartî dê xwedî taybetmendiya xwestî be. Ew diyar nake ka kîjan namzed xwedî taybetmendiyê ne, lê îhtimal bêyî herî kêm yek nikare pozîtîf be.
+Îsbateke îhtîmalî divê bi argumaneke ku dibêje teoremek 'îhtîmal' rast e, 'argumaneke îhtîmalî' neyê tevlihevkirin. Esera li ser meseleya Collatz temsîl dide ku îhtîmalî çiqas ji îsbata rastîn dûr e, herwiha redkirina fikra Mertens jî. Herçiqend piriya matematîkzanan nafikirin ku îsbatên îhtîmalî ji bo taybetmendiyên tiştekî diyarkirî wekî îsbateke matematîkî ya rastîn têne hesibandin, çend matematîkzan û fîlozofan arguman kirine ku bi kêmanî hin celeb îsbatên îhtîmalî (wek algorîtmaya îhtîmalî ya Rabin ji bo ceribandina prîmîteyê) bi qasî îsbatên matematîkî yên rastîn baş in.
+
+
+=== Îsbata kombînatorkirî ===
+Îsbateke kombînatorîkî bi rêya temsîl kirina wê yekê ku çendîn awayên cuda hene ji bo hejmartina eynî tiştî, wekheviya di navbera îfadeyên cuda de temsîl dike. Pir caran ji bo temsîla wekheviya îfadeyên mezinahiya du koman, têkiliyeke bijeksiyon (yek-bi-yek) di navbeya wan de tê bikaranîn. Wekî alternatîf, metoda "hejmartina ducarî" du îfadeyên cuda ji bo mezinahiya komeke yekane pêşkêş dike û bi wî awayî dîsa temsîl dide ku ew her du îfade wekhev in.
+
+
+=== Îsbatên ne-îfadeyî ===
+Îsbateke ne-îfadeyî hebûna cismeke matematîkî yê xwediyê taybetmendiyeke diyarkirî piştrast dike, bêyî ku rave bike ka însan çawa dikare wî cismî bibîne. Pir caran ew yek bi rêya îsbatkirina bi metoda kondîkatorkirinê pêk tê ku tê de tê îsbatkirin ku ne-hebûna wî cismî ne pêkan e. Berevajî vê, îsbateke îfadekirî hebûna cismekî taybetî bi rêya pêşkêşkirina metodeke dîtina wî cismî piştrast dike. Mesela populer a li jêr ji bo îsbatên ne-îfadeyî temsîl dide ku du hejmarên îrasyonel ên wekî a û b hene ku tê de 
+  
+    
+      
+        
+          a
+          
+            b
+          
+        
+      
+    
+    {\displaystyle a^{b}}
+  
+ dibe hejmareke rasyonel. Ew îsbat wê rastiyê bi kar tîne ku 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+ hejmareke îrasyonel e (îsbateke hêsan a vê yekê ji çaxa Iqlîf ve tê zanin), lê ne wê rastiyê ku 
+  
+    
+      
+        
+          
+            
+              2
+            
+          
+          
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}^{\sqrt {2}}}
+  
+ hejmareke îrasyonel e (ew rast e, lê îsbatkirina wê ne hêsan û seretayî ye).
+Yan 
+  
+    
+      
+        
+          
+            
+              2
+            
+          
+          
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}^{\sqrt {2}}}
+  
+ hejmareke rasyonel e û îşê me diqede (bila 
+  
+    
+      
+        a
+        =
+        b
+        =
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a=b={\sqrt {2}}}
+  
+ be), yan jî 
+  
+    
+      
+        
+          
+            
+              2
+            
+          
+          
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}^{\sqrt {2}}}
+  
+ îrasyonel e, loma em dikarin binivîsin 
+  
+    
+      
+        a
+        =
+        
+          
+            
+              2
+            
+          
+          
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle a={\sqrt {2}}^{\sqrt {2}}}
+  
+ û 
+  
+    
+      
+        b
+        =
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle b={\sqrt {2}}}
+  
+. Vêca ew encamê dide: 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  2
+                
+              
+              
+                
+                  2
+                
+              
+            
+            )
+          
+          
+            
+              2
+            
+          
+        
+        =
+        
+          
+            
+              2
+            
+          
+          
+            2
+          
+        
+        =
+        2
+      
+    
+    {\displaystyle \left({\sqrt {2}}^{\sqrt {2}}\right)^{\sqrt {2}}={\sqrt {2}}^{2}=2}
+  
+ ku bi wî awayî hejmareke rasyonel e di şêweya 
+  
+    
+      
+        
+          a
+          
+            b
+          
+        
+      
+    
+    {\displaystyle a^{b}}
+  
+ de.
+
+
+=== Îsbatên statîstîkî di matematîka saf de ===
+Gotina "îsbata statîstîkî" dibe ku di warên matematîka saf de, wekî krîptografî, rêzên kaotîk û teoriya hejmaran a îhtîmalî an teoriya analîtîk a hejmaran, hem bi awayekî teknîkî û hem jî bi awayekî rojane were bikaranîn. Ew konsept kêmtir ji bo behskirina îsbatek matematîkî di wê şaxê matematîkê de ku wekî matematîka statîstîkî tê zanin, tê bikaranîn. 
+
+
+=== Îsbatên bi alîkariya komputerê ===
+Heta sedeya bîstê dihat texmînkirin ku her îsbatek, di prensîbê de, dikare ji hêla matematîknasek jêhatî ve were kontrol kirin da ku rastbûna wê piştrast bike. Lêbelê, îsbatkerên teoremên otomatîk û alîkarên îsbatê niha ji bo îsbatkirina teoreman û pêkanîna hesabên ku ji bo her însan an tîmek însanan pir dirêj in têne bikaranîn; îsbata yekê a teorema çar rengan meselake îsbatek bi alîkariya komputerê ye. Hin matematîknas bi fikar in ku îhtîmala xeletiyek di programek komputerê de an xeletiyek çaxa xebitandinê di hesabên wê de derbasdariya wan îsbatên bi alîkariya komputerê dixe bin pirsyarê. Di pratîkê de, îhtîmala xeletiyek ku îsbatek bi alîkariya komputerê betal dike dikare bi tevlêkirina dubarekirin û kontrolên bixweyî di hesaban de û bi pêşxistina gelek nêzîkatî û programên serbixwe were kêm kirin. Di rewşa verastkirina îsbatek ji hêla însanan ve jî, xeletî qet bi tevahî nayên red kirin, nemaze heke îsbat zimanek xwezayî dihewîne û têgihîştinek kûr a matematîkî hewce dike da ku texmîn û xeletiyên veşartî yên potansiyel eşkere bike.
+
+
+== Dawîkirina îsbateke ==
+Carinan, kurtkirina Q.E.D. tê bikaranîn da ku dawiya îsbatê temsîl bide. Ew kurtkirin ji bo quod erat demonstrandum tê bikaranîn ku bi latînî tê maneya tişta ku diviyabû bihata îsbatkirin. Alternatîfeke berbelavtir bikaranîna çargoşeyek an çargoşeyeke dirêj (rektangul) e, wekî □ an ∎ ku bi navên tombstone  an jî Halmos (eponîma Paul Halmos) tê zanin. Di pêşkêşiyên devkî de, çaxa ku QED, "□" an "∎" tê nivîsîn, pir caran bi devkî tê gotin "tişta ku diviyabû bihata nîşandan". Unicode bi awayekî eşkere sembola "dawiya îsbatê" pêşkêş dike ku ew jî U+220E (∎)  (220E(hex) = 8718(dec)) ye.
+
+
+== Mijarên têkildar ==
+Analîza hejmarî
+
+
+== Çavkanî ==
+
+
+=== Bîbliyografî ===

@@ -1,0 +1,15 @@
+Cot di teoriya hejmaran de tê wateya parbûna bi hejmara didu.
+Hejmara cot — hejmara ku bê bermahiyan parî 2'yan dibe:   …, −4, −2, 0, 2, 4, 6, 8, …
+Hejmara kit — hejmara ku bê bermahîyan parî 2'yan nabe:   …, −3, −1, 1, 3, 5, 7, 9, …
+Eger m hejmareke cot e, wê demê ev formûl guncav e
+, lê eger kit e, wê demê ev formûl
+Eger di hejmarekê de reqama dawî cot be (0, 2, 4, 6 an 8), wê demê tevahiya hejmar jî cot e, lê eger reqama dawî kit be - tevahiya hejmar jî kit e.
+42, 104, 11110, 9115817342 — hejmarên cot in.
+31, 703, 78527, 2356895125 — hejmarên kit in.
+Cot / Cot  — eger encam tamhejmar be, wê demê dikare hem cot be, hem kit be.
+Cot / Kit = eger encam tamhejmar be, wê demê Cot e.
+Kit / Kit = eger encam tamhejmar be, wê demê Kit e.
+Mirovahî ji demên kevnar ve hay ji cotbûna hejmaran heye. Heta li dora hejmarên cot hewayeke mîstîk jî diafirand. Di bîr û baweriya çîniyan de hejmarên cot hevsengî têgîna "în" in, lê hejmarên kit hevsengî "yan" in ».
+Di welatên cûrbecûr de kevneşopiyên diyarîkirina kulîlkan ên bi hejmarên cot an kit hene.
+Mînak: li DYE, Ewropayê û hin welatên rojhilatî diyarîkirina hejmareke cot a kulîlkan bext ji diyarîgir re tîne.
+Li Rûsya û welatên SNG kulîlkên bi hejmara cot tînin ser miriyan an goristanê. Lê dema ku di baqekî de kulîlk zehf bin (bi giştî dema ku bêtirî 11'an be), cotbûn an kitbûna hejmara wan êdî ne girîng e.

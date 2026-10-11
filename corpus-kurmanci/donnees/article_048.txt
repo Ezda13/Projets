@@ -1,0 +1,22 @@
+Monomer
+
+Peyva monomer (mono, ”yek” û -mer, “parçe, heb”) ji zimanê yewnanî çêbûye. Monomer bi serê xwe molekulên hûrik in, loma wekî molekulên sakar tên navkirin. Monomer bi reaksiyona dehîdrasyonê, di navbera hev de bendên kîmyayî ava dikin û dibin polîmer. Ango, monomer yekeya polîmerê yê.
+n(monomer) → polîmer + (n-1)H2O
+Di zanista biyolojiyê de asîdên amînî, glukoz, asîdên rûnê û nukleotîd hin ji monomerên xwezayî ne.
+Asîdên amînî monomerên proteînan e.
+n(Asîda amînî) → proteîn (polîpeptîd) + (n-1)H2O
+Glukoz monomera polîsakkarîdan e.
+n(Glukoz) → (nîşa an seluloz an jî glîkojen) + (n-1)H2O
+Nukleotîd monomerên asîda deoksîrîbonukleyî (ADN) û asîda rîbonukleyî (ARN) ne.
+n(nukleotîd) → ARN + (n-1)H2O
+n(nukleotîd) → ADN + (n-2)H2O
+Xurekên wekî rûn, proteîn û karbohîdrad makromolekul in, ango molekulên aloz in. Ji boy derbasbûna nav xwînê û xaneyan divê ji aliyê enzîmên herisînê ve werin parçekirin û bibin monomer. Xurekên karbohîdradî bi enzîmên herisînê hîdrolîz dibin û monomerên wekî glukoz, fruktoz û galaktoz çêdibin. Xurekên proteînî jî bi enzîmên herisînê, tên dehandin û asîdên amînî wekî monomer çêdibin. Van monomeran têra xwe hurik in û dikarin derbasî nav xwînê bibin.
+
+
+== Çavkanî ==
+[1]
+[2]
+
+
+== Girêdanên derve ==
+[3]
